@@ -11,6 +11,7 @@
 		335159FD2BF5262B001FBA71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335159FC2BF5262B001FBA71 /* ContentView.swift */; };
 		335159FF2BF5262D001FBA71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 335159FE2BF5262D001FBA71 /* Assets.xcassets */; };
 		33515A022BF5262D001FBA71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33515A012BF5262D001FBA71 /* Preview Assets.xcassets */; };
+		33515A092BF526FD001FBA71 /* TabPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33515A082BF526FD001FBA71 /* TabPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		335159FC2BF5262B001FBA71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		335159FE2BF5262D001FBA71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33515A012BF5262D001FBA71 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		33515A082BF526FD001FBA71 /* TabPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				335159FA2BF5262B001FBA71 /* finalTwitterDupeProjectApp.swift */,
 				335159FC2BF5262B001FBA71 /* ContentView.swift */,
+				33515A082BF526FD001FBA71 /* TabPage.swift */,
 				335159FE2BF5262D001FBA71 /* Assets.xcassets */,
 				33515A002BF5262D001FBA71 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33515A092BF526FD001FBA71 /* TabPage.swift in Sources */,
 				335159FD2BF5262B001FBA71 /* ContentView.swift in Sources */,
 				335159FB2BF5262B001FBA71 /* finalTwitterDupeProjectApp.swift in Sources */,
 			);
